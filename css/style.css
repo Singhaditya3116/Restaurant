@@ -22,3 +22,7 @@
 body{
     padding: 50px 0px 0px 0px;
 }
+#owner{
+    height: 100px;
+    width: 100px;
+}
